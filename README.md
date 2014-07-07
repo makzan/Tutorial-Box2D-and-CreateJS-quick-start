@@ -5,5 +5,5 @@ This tutorial demonstrates a simple HTML5 game by using Box2D physics engine and
 
 ## Library Used
 
-CreateJS: http://createjs.com
-Box2DWeb: https://code.google.com/p/box2dweb/
+- CreateJS: http://createjs.com
+- Box2DWeb: https://code.google.com/p/box2dweb/
