@@ -7,6 +7,12 @@ The following are the steps to complete this tutorial project. In case you just 
 - [Step 1 – Set up the project](https://github.com/makzan/Tutorial-Box2D-and-CreateJS-quick-start/tree/master/step-1-setup-project/)
 - [Step 2 – Physics world](https://github.com/makzan/Tutorial-Box2D-and-CreateJS-quick-start/tree/master/step-2-physics-world/)
 
+## Final screen
+
+Here is the result of this project. It setup the basic code for Box2D and CreateJS woring together. 2 objects are created to demonstrate the static and dynamic objects creation.
+
+![Final Screen](https://raw.githubusercontent.com/makzan/Tutorial-Box2D-and-CreateJS-quick-start/master/tutorial-images/final-screen.png)
+
 ## Library Used
 
 - CreateJS: http://createjs.com
