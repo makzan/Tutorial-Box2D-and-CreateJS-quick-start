@@ -1,7 +1,7 @@
-# Tutorial-Box2D-and-CreateJS-quick-start
+# Tutorial – Box2D and CreateJS quick start
 
 
-This tutorial demonstrates a simple HTML5 game by using Box2D physics engine and CreateJS.
+This tutorial demonstrates a HTML5 game setup by using Box2D physics engine and CreateJS.
 
 ## Library Used
 
