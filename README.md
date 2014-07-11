@@ -7,6 +7,7 @@ The following are the steps to complete this tutorial project. In case you just 
 - [Step 1 – Set up the project](https://github.com/makzan/Tutorial-Box2D-and-CreateJS-quick-start/tree/master/step-1-setup-project/)
 - [Step 2 – Game Structure](https://github.com/makzan/Tutorial-Box2D-and-CreateJS-quick-start/tree/master/step-2-game-structure/)
 - [Step 3 – Physics world](https://github.com/makzan/Tutorial-Box2D-and-CreateJS-quick-start/tree/master/step-3-physics-world/)
+- Step 4 – Our own graphics (TODO)
 
 ## Final screen
 

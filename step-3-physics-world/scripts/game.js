@@ -33,7 +33,7 @@ var b2Vec2 = Box2D.Common.Math.b2Vec2
     cjs.Ticker.setFPS(60);
     cjs.Ticker.addEventListener('tick', game.tick); // gameloop
 
-    game.createWorld(0, 9.8); // with giver gravity.
+    game.createWorld(0, 9.8); // with given gravity.
     game.showDebugDraw();
 
     // Edit the following function to fit your needs.
