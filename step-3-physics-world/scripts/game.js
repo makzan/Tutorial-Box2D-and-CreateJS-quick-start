@@ -31,7 +31,6 @@ var b2Vec2 = Box2D.Common.Math.b2Vec2
     game.stage = new cjs.Stage(game.canvas);
 
     cjs.Ticker.setFPS(60);
-    cjs.Ticker.addEventListener('tick', game.stage); // add game.stage to ticker make the stage.update call automatically.
     cjs.Ticker.addEventListener('tick', game.tick); // gameloop
 
     game.createWorld(0, 9.8); // with giver gravity.
@@ -49,6 +48,8 @@ var b2Vec2 = Box2D.Common.Math.b2Vec2
     if (cjs.Ticker.getPaused()) { return; } // run when not paused
 
     game.updatePhysics();
+
+    game.stage.update(); // reflect drawing on canvas
 
   };
 }).call(this, box2dgame, createjs);

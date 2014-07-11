@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='utf-8'>
+  <title>Tutorial – Box2D and CreateJS quick start</title>
+  <meta name='description' content='This is a tutorial about using the CreateJS HTML5 game library and the Box2D physics engine.'>
+  <meta name='author' content='Thomas Seng Hin Mak'>
+  <link rel='stylesheet' href='styles/style.css'>
+</head>
+<body>
+
+<section id='game'>
+  <canvas id='game-canvas' width='300' height='400'></canvas> <!-- behind 'debug-canvas' -->
+  <canvas id='debug-canvas' width='300' height='400'></canvas> <!-- in front of 'game-canvas' -->
+</section>
+
+<p>This is a tutorial about using the CreateJS HTML5 game library and the Box2D physics engine. This post is created for the <a href='http://makzan.net/learning-createjs/'>Learning CreateJS</a> section in <a href='http://makzan.net/'>my website.</a></p>
+
+<!-- unless necessary, scripts are placed at the end of the body. -->
+<script src='vendors/box2dweb-2.1.a.3.min.js'></script> <!-- Box2DWeb-->
+<script src='http://code.createjs.com/easeljs-0.7.1.min.js'></script> <!-- EaselJS on CDN -->
+<script src='scripts/game.js'></script> <!-- our game logic -->
+</body>
+</html>

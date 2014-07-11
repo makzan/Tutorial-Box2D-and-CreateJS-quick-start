@@ -39,4 +39,4 @@ In the `index.html` file, we load the styles and scripts files. The EaselJS libr
 
 * * *
 
-[→ Next step – Physics world](https://github.com/makzan/Tutorial-Box2D-and-CreateJS-quick-start/tree/master/step-2-physics-world/)
+[→ Next step – Game structure](https://github.com/makzan/Tutorial-Box2D-and-CreateJS-quick-start/tree/master/step-2-game-structure/)
