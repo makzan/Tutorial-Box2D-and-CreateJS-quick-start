@@ -1,0 +1,11 @@
+#game {
+  position: relative;
+  width: 300px;
+  height: 400px;
+}
+#game > canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #efefef;
+}
