@@ -1,10 +1,6 @@
 # Box2D and CreateJS quick start
 
-<<<<<<< HEAD
 This tutorial demonstrates an HTML5 game setup by using Box2D physics engine and CreateJS.
-=======
-This tutorial demonstrates a HTML5 game setup by using Box2D physics engine and CreateJS.
->>>>>>> origin/master
 
 The following are the steps to complete this tutorial project. In case you just need the final code, please check the [last step](https://github.com/makzan/Tutorial-Box2D-and-CreateJS-quick-start/tree/master/step-3-physics-world/).
 
